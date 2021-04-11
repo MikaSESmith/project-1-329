@@ -24,6 +24,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
+My goal is to represent who I am and what I can offer to an employer or client.
+
 ---------------------------------------------------------------------
 
 
@@ -37,8 +39,8 @@ Search and compare at least 3 profile web sites.  Record your findings in the ta
 
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
-| [denisechandler.com](http://www.denisechandler.com/)| landing page animation
-|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
+| https://www.olivier-guilleux.com/  | First choice
+| http://isaadney.com/ | second choice |
 | [mattfarley.ca](http://mattfarley.ca/) |  layout of the projects
 
 ---
