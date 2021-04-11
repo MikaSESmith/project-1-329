@@ -1,8 +1,8 @@
 # Project Overview
 
-**PROJECT NAME:** dfadfadfsdfadf
+**PROJECT NAME:** Mika Smith, Creator
 
-**PROJECT AUTHOR:** lkjlkjljlkadfsd
+**PROJECT AUTHOR:** Mika Smith
 
 ## Project Schedule
 
@@ -24,9 +24,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
+---------------------------------------------------------------------
+
+
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+Include link to your google sheet here: https://docs.google.com/spreadsheets/d/12FAlzTbGAuA1Z9lRfnXmF-5D5awVJTKokUCIw44OEFE/edit?usp=sharing
 
 ## Portfolio I want to Emulate
 
