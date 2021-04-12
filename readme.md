@@ -40,8 +40,8 @@ Search and compare at least 3 profile web sites.  Record your findings in the ta
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
 | https://www.olivier-guilleux.com/  | First choice
-| http://isaadney.com/ | second choice |
-| [mattfarley.ca](http://mattfarley.ca/) |  layout of the projects
+| http://isaadney.com/ | second choice 
+|
 
 ---
 
@@ -49,8 +49,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+- https://res.cloudinary.com/dsa6uolwy/image/upload/v1618189752/PROJECT_1_MOCKUP_ihfhzu.jpg
 
 Wireframing Resources:
 
@@ -95,7 +94,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Hamburger | H | 1hr | hr |
-| Project Previews | H | 3hr | hr |
+| Project Previews | H | 5hr | hr |
 | Regular Nav | H | 1hr | hr |  
 | Adding Form | H | 1.5hr|  hr | 
 | Other sections and flex| M | 3hr | hr|
