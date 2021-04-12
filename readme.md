@@ -1,6 +1,6 @@
 # Project Overview
 
-**PROJECT NAME:** Mika Smith
+**PROJECT NAME:** Mika Smith, Software Engineer
 
 **PROJECT AUTHOR:** Mika Smith
 
@@ -41,7 +41,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 | ------------- | ------------- |
 | https://www.olivier-guilleux.com/  | First choice
 | http://isaadney.com/ | second choice 
-|
+|https://www.wonderlandams.com/ | third choice
 
 ---
 
@@ -55,6 +55,7 @@ Wireframing Resources:
 
 - [Mockflow](https://mockflow.com/app/#Wireframe)
 - [Figma](https://www.figma.com/)
+- Adobe xd
 
 
 ## Time/Priority Matrix 
