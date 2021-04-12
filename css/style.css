@@ -21,3 +21,25 @@
 
 
 /* Desktop */
+ body {
+    background-image: linear-gradient( #FA4083,#050c44);
+    color: white;
+ }
+
+ .container {
+    width: 1024px;
+    
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+header {
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
