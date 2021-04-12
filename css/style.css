@@ -46,14 +46,14 @@ header {
 
  main {
    
-    min-height: 500px;
+    min-height: 525px;
     display: flex;
     align-items: center;
 
 }
-
+/* 
 .cards {
-    min-height: 200px;
+    min-height: 00px;
     display: flex;
     align-items: center;
-}
+} */
