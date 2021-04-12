@@ -1,6 +1,6 @@
 # Project Overview
 
-**PROJECT NAME:** Mika Smith, Creator
+**PROJECT NAME:** Mika Smith
 
 **PROJECT AUTHOR:** Mika Smith
 
@@ -97,22 +97,20 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Project Previews | H | 5hr | hr |
 | Regular Nav | H | 1hr | hr |  
 | Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
-| Working with API | H | 3hrs|  hr | 
-| Responsive | H | 3hr | hr | hr |
+| Other sections and flex| M | 5hr | hr|
+| Working with API | H | 5hrs|  hr | 
+| Responsive | H | 5hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
-| Total | H | 15.5hrs| hrs |
+| Photo shoot | H | 1HR 
+| Total | H | 26.5hrs| hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Project Hover | L | 3hr | -hr | hr |
-| Banner letters wiggle | L | 1hr | hr |
-| Interactive Banner | M | 4hr | hr |
-| Materialize | H | 4hr | -hr | hr |
+| Interactive Banner | M | 3hr | hr |
 | Bootstrap | H | 4hr | hr |
 | Make own icon | L | 4hr | hr |
-| Total | H | 20hrs| hrs |
+| Total | H | 11hrs| hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
