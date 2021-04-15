@@ -6,7 +6,17 @@
 
 /* Mobile View */
 @media (max-width: 360px) {
-    
+    width: 100%;
+    background-color: gray;
+    .container {
+        display: flex-box;
+        /* width: 1024px;
+        
+        min-height: 300px; */
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
 }
 
 
@@ -17,7 +27,7 @@
 
 /* Tablet View */
 @media (max-width: 768px) {
-    
+    background-color: green;
 }
 
 
@@ -29,18 +39,18 @@
 /* Desktop */
  body {
     /* background-image: linear-gradient( #Ff3cac, #784b80, #2b8cb5);  */
-   
+   background-color: aqua;
  }
 
- .container {
+ /* .container {
     display: flex-box;
-    width: 1024px;
+    /* width: 1024px;
     
-    min-height: 300px;
-    margin-left: auto;
+    min-height: 300px; */
+    /* margin-left: auto;
     margin-right: auto;
     
-}
+} */ 
 
 header {
   
@@ -70,4 +80,20 @@ header {
 .herobox2 {
     display: flex;
     padding-left: 5%;
+}
+.text1 p {
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    width: 75%;
+    
+}
+.text2 p {
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    width: 75%;
+    
 }
