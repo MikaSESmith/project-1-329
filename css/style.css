@@ -153,6 +153,22 @@ main {
    width: 100%;
 }
 
+.card-overview {
+    max-width: 300px;
+    justify-content: space-around;
+    padding: 70px 10px;
+  }
+
+  .card-overview small {
+    color: var(--sl-color-gray-500);
+  }
+
+  .card-overview [slot="footer"] {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+  }
+
 
 .col4 {
             font-size: 25px;
