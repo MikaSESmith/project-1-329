@@ -15,8 +15,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 1| Project Description | COMPLETE
 |Day 1| Wireframes / Priority Matrix / Timeline | COMPLETE
 |Day 3| Core Application Structure (HTML, CSS, etc.) | COMPLETE
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
+|Day 4| MVP & Bug Fixes | Complete
+|Day 5| Final Touches | COmplete
 |Day 6| Present | Incomplete
 
 
@@ -125,9 +125,27 @@ function reverse(string) {
 	// here is the code to reverse a string of text
 }
 ```
+Really proud of how this section turned out. I plan to add more functionality and animation to this in in the future.
+
+<div class="col4">
+      <ul>
+        
+        <li><img src="https://bn1304files.storage.live.com/y4mvOwtly4iU88FxZIPdkZTugO9Z-g946xix0xzqESFXg-ctzME7AhqNmgWzDTT7Eup4OmHkY3EZfiihlPSrEGDyfnayZ52gHMyKIz-JdOdPonsRFfc3AhLgMXAR1in5WdO4FlOIC3Qx69MfV935ohczvOmOoTWRPtTbIpsmQKNZC3GkZ1pfSIQtXnIh-rsTZdA?width=256&height=256&cropmode=none" width="256" height="256" /><p>I'm a creative.</p></a></li>
+
+        <li><img src="https://bn1304files.storage.live.com/y4mTs0R4KDDC50gd0wtO3zMfphcmWkqBWKyBCePIUHZ64-jcTmqFcNpp5B2XVrOtItYiON9yFJkmRrNy8Wyj91NvnX4M2iQHKXZ3t0jcLsbJUAF3Sp4v5zlfnJcO_i3iU-1zcKVnh-eSBKpbwKYGCSC5_NOjLd5R8Dz1mKZZv-bQrQdXAYE8gmHwgfDflEB2dHg?width=256&height=256&cropmode=none" width="256" height="256" /><p>Lorem ipsum dolor sit amet.</p></li>
+
+
+        <li><img src="https://bn1304files.storage.live.com/y4mHc2lEmm5pwefEnaoZhfgRFNk9Xj6_NvpWxY8ni4tcA2CpCqIqhZDexmvnyXOHW0uMltQMcfL28L9_A06DY4sZ0_gJMCDx8x-6hmSSaFrr8nrM1n3h1Trwyx0C4JXokv0LUKQ1iPdSIvVudvSiH2YgT1mPl1szhwJc_Mow4H_YHuqPPUBuvk1m7H8XRcq9GzH?width=256&height=256&cropmode=none" width="256" height="256" /><p>Customer service centered and available to deal with the needs of my clients.</p></li>
+
+      </ul>
+       
+      </div>
 
 ## Issues and Resolutions
  Use this section to list of all major issues encountered and their resolution.
+
+ Some of my major issues were lining up my content and photos. Adjusting my width and height for most things, resolved those issues. As well as removing some hard code for my content.
+ Another was getting my links into my cards, but that was resolved after some debugging.
 
 #### SAMPLE.....
 **ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
