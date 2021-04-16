@@ -129,6 +129,7 @@ a {
 li {
     padding: 0;
     display: flex;
+    font-size: 32px;
 }
 
 
@@ -156,7 +157,7 @@ main {
 .card-overview {
     max-width: 300px;
     justify-content: space-around;
-    padding: 70px 10px;
+    
   }
 
   .card-overview small {
@@ -205,7 +206,7 @@ main {
             flex-wrap: wrap;
             align-content: flex-start;
             width: 75%;
-            
+            font-size: 32px;
         }
 
 .text2 p {
@@ -214,6 +215,7 @@ main {
             flex-wrap: wrap;
             align-content: flex-start;
             width: 75%;
+            font-size: 32px;
             
         }
 
